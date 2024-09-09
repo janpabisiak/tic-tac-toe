@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/janpabisiak/tic-tac-toe/main/cover.png">
+
 # Tic-Tac-Toe
 
 A simple tic-tac-toe game implemented in JavaScript.
