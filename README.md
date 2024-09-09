@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/janpabisiak/tic-tac-toe/main/cover.png">
 
-# Tic-Tac-Toe
+# Tic Tac Toe [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
 
 A simple tic-tac-toe game implemented in JavaScript.
 
